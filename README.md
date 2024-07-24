@@ -14,7 +14,7 @@ The Xylophone App is a Flutter-based mobile application that allows users to pla
 To install and run the Xylophone App, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/xylophone-app.git
+git clone [https://github.com/your-username/xylophone-app.git](https://github.com/swati1524/Xylophone.git)
 
 Navigate to the project directory:
 cd xylophone-app
